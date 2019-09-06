@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-donate": "^1.0.2",
+    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-klipse": "^1.2.0",
+    "gitbook-plugin-search-plus": "^1.0.4-alpha-3"
+  }
+}
