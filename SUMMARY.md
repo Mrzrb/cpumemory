@@ -5,3 +5,4 @@
 * [介绍](Introduction.md)
 * [现代硬件](hardware/hardware.md)
     * [RAM类型](hardware/RAM.md)
+        * [SRAM](hardware/RAM/SRAM.md)

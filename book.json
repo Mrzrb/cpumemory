@@ -4,18 +4,7 @@
         "-search", 
         "search-plus",
         "katex",
-        "donate",
         "copy-code-button",
         "klipse"
-    ],
-	"pluginsConfig": {
-		"donate": {
-			"wechat": "http://zhangrb-image.oss-cn-beijing.aliyuncs.com/image/20190904233438.jpg",
-			"alipay": "http://zhangrb-image.oss-cn-beijing.aliyuncs.com/image/20190904233627.jpg",
-			"title": "",
-			"button": "赏",
-			"alipayText": "支付宝打赏",
-			"wechatText": "微信打赏"
-		}
-	}
+    ]
 }
